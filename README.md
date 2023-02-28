@@ -1,7 +1,9 @@
 # WordleSolver
 A Python Script to solve Wordle using rules set by the user
 
-This solver contains two scripts: The Generator and The Solver
+This Solver is still in BETA Im still working on some aspects such as the Solver.
+
+This solver contains two scripts: The Generator and The Solver.
 The Generator creates a file containing all the five letter words in the dictionary and The Solver, you guessed it, solves the Wordle.
 
 To use:
